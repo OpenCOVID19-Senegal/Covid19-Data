@@ -1,4 +1,4 @@
-# [Données Covid19 Sénégal](../senegalouvert/COVID-19)
+# [Données Covid19 Sénégal](https://github.com/senegalouvert/COVID-19)
 Données de l’épidémie de coronavirus au Sénégal
 
 * Nombre de tests
